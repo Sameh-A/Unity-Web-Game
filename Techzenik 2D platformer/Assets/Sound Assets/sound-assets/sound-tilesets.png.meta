@@ -1,0 +1,2384 @@
+fileFormatVersion: 2
+guid: 4e906078987edd14887b6b5cbfcb55fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6749475180779036016
+    second: sound-tilesets_0
+  - first:
+      213: -5021414170392945584
+    second: sound-tilesets_1
+  - first:
+      213: 2681892038639630552
+    second: sound-tilesets_2
+  - first:
+      213: 8631560494171314400
+    second: sound-tilesets_3
+  - first:
+      213: 4180282550509129859
+    second: sound-tilesets_4
+  - first:
+      213: -3629705940621890695
+    second: sound-tilesets_5
+  - first:
+      213: 8879224927763180671
+    second: sound-tilesets_6
+  - first:
+      213: 8929623077439107095
+    second: sound-tilesets_7
+  - first:
+      213: -3819378449886496816
+    second: sound-tilesets_8
+  - first:
+      213: -6297344078529298823
+    second: sound-tilesets_9
+  - first:
+      213: 7727173366806966294
+    second: sound-tilesets_10
+  - first:
+      213: 7237049788513487303
+    second: sound-tilesets_11
+  - first:
+      213: 4879228587428966430
+    second: sound-tilesets_12
+  - first:
+      213: 8237790502643911619
+    second: sound-tilesets_13
+  - first:
+      213: 5779499483067586699
+    second: sound-tilesets_14
+  - first:
+      213: -4205244485445162322
+    second: sound-tilesets_15
+  - first:
+      213: 6415351538456660457
+    second: sound-tilesets_16
+  - first:
+      213: 516638099636142624
+    second: sound-tilesets_17
+  - first:
+      213: -7579768166191927796
+    second: sound-tilesets_18
+  - first:
+      213: 252617883072536767
+    second: sound-tilesets_19
+  - first:
+      213: 5343623575823326050
+    second: sound-tilesets_20
+  - first:
+      213: 4221396896371365971
+    second: sound-tilesets_21
+  - first:
+      213: -3052828406456423148
+    second: sound-tilesets_22
+  - first:
+      213: 1333754938860727037
+    second: sound-tilesets_23
+  - first:
+      213: -1639695800195856667
+    second: sound-tilesets_24
+  - first:
+      213: -6051049691306874813
+    second: sound-tilesets_25
+  - first:
+      213: 3180024243032168748
+    second: sound-tilesets_26
+  - first:
+      213: -3921681928370350876
+    second: sound-tilesets_27
+  - first:
+      213: -8465224855514193888
+    second: sound-tilesets_28
+  - first:
+      213: 3676827124798478249
+    second: sound-tilesets_29
+  - first:
+      213: 6832107999555446302
+    second: sound-tilesets_30
+  - first:
+      213: -8513700599476917214
+    second: sound-tilesets_31
+  - first:
+      213: -333814621123059500
+    second: sound-tilesets_32
+  - first:
+      213: -4553164934981596085
+    second: sound-tilesets_33
+  - first:
+      213: -1139570240902398111
+    second: sound-tilesets_34
+  - first:
+      213: -7588943340534996372
+    second: sound-tilesets_35
+  - first:
+      213: -5032824250132553543
+    second: sound-tilesets_36
+  - first:
+      213: -3893383395220760254
+    second: sound-tilesets_37
+  - first:
+      213: -2591185392828500218
+    second: sound-tilesets_38
+  - first:
+      213: 7861882401979648896
+    second: sound-tilesets_39
+  - first:
+      213: -5527291009388447383
+    second: sound-tilesets_40
+  - first:
+      213: 6905681839148461921
+    second: sound-tilesets_41
+  - first:
+      213: -2271582993579819656
+    second: sound-tilesets_42
+  - first:
+      213: -9118053686498620413
+    second: sound-tilesets_43
+  - first:
+      213: -6523295470746898974
+    second: sound-tilesets_44
+  - first:
+      213: -7188226110328638372
+    second: sound-tilesets_45
+  - first:
+      213: -9037127664511474096
+    second: sound-tilesets_46
+  - first:
+      213: -7580672624667162201
+    second: sound-tilesets_47
+  - first:
+      213: 3920604393707519979
+    second: sound-tilesets_48
+  - first:
+      213: 522902479381216682
+    second: sound-tilesets_49
+  - first:
+      213: 1563001652700984016
+    second: sound-tilesets_50
+  - first:
+      213: 2076496390323021521
+    second: sound-tilesets_51
+  - first:
+      213: 865588830451336008
+    second: sound-tilesets_52
+  - first:
+      213: -3959212994071700194
+    second: sound-tilesets_53
+  - first:
+      213: -6360051980388144244
+    second: sound-tilesets_54
+  - first:
+      213: 2725737632398219042
+    second: sound-tilesets_55
+  - first:
+      213: -3121077092108320320
+    second: sound-tilesets_56
+  - first:
+      213: -1129368727576561920
+    second: sound-tilesets_57
+  - first:
+      213: 4638542793004469828
+    second: sound-tilesets_58
+  - first:
+      213: -3929316924777197627
+    second: sound-tilesets_59
+  - first:
+      213: -5748540007157239033
+    second: sound-tilesets_60
+  - first:
+      213: 8862958555427337932
+    second: sound-tilesets_61
+  - first:
+      213: 5951020053567044040
+    second: sound-tilesets_62
+  - first:
+      213: 6486230765014659884
+    second: sound-tilesets_63
+  - first:
+      213: -4102346448453617038
+    second: sound-tilesets_64
+  - first:
+      213: -2750592949670047901
+    second: sound-tilesets_65
+  - first:
+      213: 1782562928293541251
+    second: sound-tilesets_66
+  - first:
+      213: 4819706539349224389
+    second: sound-tilesets_67
+  - first:
+      213: -7334622752344038472
+    second: sound-tilesets_68
+  - first:
+      213: 4810752136287770411
+    second: sound-tilesets_69
+  - first:
+      213: -4522471314734885232
+    second: sound-tilesets_70
+  - first:
+      213: 2013607960526848391
+    second: sound-tilesets_71
+  - first:
+      213: 6798943051140742898
+    second: sound-tilesets_72
+  - first:
+      213: -1660752214191577924
+    second: sound-tilesets_73
+  - first:
+      213: 1685523253857575073
+    second: sound-tilesets_74
+  - first:
+      213: -7046440095976970399
+    second: sound-tilesets_75
+  - first:
+      213: -5100591981313519432
+    second: sound-tilesets_76
+  - first:
+      213: 5012835572993130726
+    second: sound-tilesets_77
+  - first:
+      213: 7470821717557417684
+    second: sound-tilesets_78
+  - first:
+      213: -2008225841059845065
+    second: sound-tilesets_79
+  - first:
+      213: -8453675836695210605
+    second: sound-tilesets_80
+  - first:
+      213: -8103164023243997804
+    second: sound-tilesets_81
+  - first:
+      213: -803457869625925069
+    second: sound-tilesets_82
+  - first:
+      213: 4187647489705475812
+    second: sound-tilesets_83
+  - first:
+      213: 4095369171834998143
+    second: sound-tilesets_0
+  - first:
+      213: -297597066261420401
+    second: sound-tilesets_1
+  - first:
+      213: -1826230963178852484
+    second: sound-tilesets_2
+  - first:
+      213: -1045261694196776247
+    second: sound-tilesets_3
+  - first:
+      213: 6565532683895044623
+    second: sound-tilesets_4
+  - first:
+      213: -4429664964323397618
+    second: sound-tilesets_5
+  - first:
+      213: 810579603150144107
+    second: sound-tilesets_6
+  - first:
+      213: 6841022822074756931
+    second: sound-tilesets_7
+  - first:
+      213: -8176425438764322530
+    second: sound-tilesets_8
+  - first:
+      213: -2435208979919186369
+    second: sound-tilesets_9
+  - first:
+      213: 522543031106936936
+    second: sound-tilesets_10
+  - first:
+      213: -2468401579027410584
+    second: sound-tilesets_11
+  - first:
+      213: -4381755526659893206
+    second: sound-tilesets_12
+  - first:
+      213: -3132532106888227825
+    second: sound-tilesets_13
+  - first:
+      213: 6567344779952219170
+    second: sound-tilesets_14
+  - first:
+      213: -3793921990788890347
+    second: sound-tilesets_15
+  - first:
+      213: 2106088037122490198
+    second: sound-tilesets_16
+  - first:
+      213: -5815879377695049809
+    second: sound-tilesets_17
+  - first:
+      213: -2257285689577387455
+    second: sound-tilesets_18
+  - first:
+      213: -7889535634961366894
+    second: sound-tilesets_19
+  - first:
+      213: -9100446591013267661
+    second: sound-tilesets_20
+  - first:
+      213: -9059393430931820641
+    second: sound-tilesets_21
+  - first:
+      213: -4475434298448391164
+    second: sound-tilesets_22
+  - first:
+      213: -8639048009906740588
+    second: sound-tilesets_23
+  - first:
+      213: -2818611435202879319
+    second: sound-tilesets_24
+  - first:
+      213: -8650234603778425512
+    second: sound-tilesets_25
+  - first:
+      213: -6829912426600548019
+    second: sound-tilesets_26
+  - first:
+      213: 3190155954159461886
+    second: sound-tilesets_27
+  - first:
+      213: 595626061418729100
+    second: sound-tilesets_28
+  - first:
+      213: 1478336798001043392
+    second: sound-tilesets_29
+  - first:
+      213: -1665344345192208885
+    second: sound-tilesets_30
+  - first:
+      213: 8419458872857611900
+    second: sound-tilesets_31
+  - first:
+      213: -1667098282716345024
+    second: sound-tilesets_32
+  - first:
+      213: 5269022893215220548
+    second: sound-tilesets_33
+  - first:
+      213: -4100151327773650306
+    second: sound-tilesets_34
+  - first:
+      213: -6836655879887427682
+    second: sound-tilesets_35
+  - first:
+      213: 8373300993330790906
+    second: sound-tilesets_36
+  - first:
+      213: -9077844669457535013
+    second: sound-tilesets_37
+  - first:
+      213: -216240390207384755
+    second: sound-tilesets_38
+  - first:
+      213: -6649483505057427548
+    second: sound-tilesets_39
+  - first:
+      213: 8590602736113965838
+    second: sound-tilesets_40
+  - first:
+      213: 4939188470961536773
+    second: sound-tilesets_41
+  - first:
+      213: -7533442690641270872
+    second: sound-tilesets_42
+  - first:
+      213: 1237806463459812247
+    second: sound-tilesets_43
+  - first:
+      213: -6678683575330578039
+    second: sound-tilesets_44
+  - first:
+      213: 530260052053848741
+    second: sound-tilesets_45
+  - first:
+      213: 5314420181743552437
+    second: sound-tilesets_46
+  - first:
+      213: 3796113444938174786
+    second: sound-tilesets_47
+  - first:
+      213: -5676192666720282212
+    second: sound-tilesets_48
+  - first:
+      213: 1338848442814078857
+    second: sound-tilesets_49
+  - first:
+      213: 3188942399544747318
+    second: sound-tilesets_50
+  - first:
+      213: -3506085321144897129
+    second: sound-tilesets_51
+  - first:
+      213: -1245654332155071652
+    second: sound-tilesets_52
+  - first:
+      213: -8635558697538689518
+    second: sound-tilesets_53
+  - first:
+      213: 2850615039326986620
+    second: sound-tilesets_54
+  - first:
+      213: -7088350237418193440
+    second: sound-tilesets_55
+  - first:
+      213: 4056596583642149976
+    second: sound-tilesets_56
+  - first:
+      213: 5164592832281639880
+    second: sound-tilesets_57
+  - first:
+      213: -3683264299091423520
+    second: sound-tilesets_58
+  - first:
+      213: 3858897123655036585
+    second: sound-tilesets_59
+  - first:
+      213: 3501230357900767117
+    second: sound-tilesets_60
+  - first:
+      213: 40728627131095075
+    second: sound-tilesets_61
+  - first:
+      213: 8760532084328503893
+    second: sound-tilesets_62
+  - first:
+      213: -3260678644801407950
+    second: sound-tilesets_63
+  - first:
+      213: -7505239599590961273
+    second: sound-tilesets_64
+  - first:
+      213: -8967744710557360286
+    second: sound-tilesets_65
+  - first:
+      213: -3066044669900581873
+    second: sound-tilesets_66
+  - first:
+      213: -8824292865673606027
+    second: sound-tilesets_67
+  - first:
+      213: 998009901642743530
+    second: sound-tilesets_68
+  - first:
+      213: 3053528064828994243
+    second: sound-tilesets_69
+  - first:
+      213: -6676614477302941893
+    second: sound-tilesets_70
+  - first:
+      213: -592584232659609528
+    second: sound-tilesets_71
+  - first:
+      213: 2912217099352621579
+    second: sound-tilesets_72
+  - first:
+      213: -7301336309805545948
+    second: sound-tilesets_73
+  - first:
+      213: -2857533850574160333
+    second: sound-tilesets_74
+  - first:
+      213: -5265016557857824641
+    second: sound-tilesets_75
+  - first:
+      213: 4246383199634558273
+    second: sound-tilesets_76
+  - first:
+      213: -1128844507666905315
+    second: sound-tilesets_77
+  - first:
+      213: -6765264995336819665
+    second: sound-tilesets_78
+  - first:
+      213: 4096384418007853778
+    second: sound-tilesets_79
+  - first:
+      213: -1095018862865034895
+    second: sound-tilesets_80
+  - first:
+      213: -8299560751251844370
+    second: sound-tilesets_81
+  - first:
+      213: 7600389152335115295
+    second: sound-tilesets_82
+  - first:
+      213: -7867797054834875282
+    second: sound-tilesets_83
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sound-tilesets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d8f47409ca5d830800000000000000
+      internalID: 4095369171834998143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f862a438b09bedbf0800000000000000
+      internalID: -297597066261420401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fa7e16d9ce7a6e0800000000000000
+      internalID: -1826230963178852484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c20414f60c7e71f0800000000000000
+      internalID: -1045261694196776247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0af7c8b0357d1b50800000000000000
+      internalID: 6565532683895044623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00b28f2f2ba682c0800000000000000
+      internalID: -4429664964323397618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6201fbbad1cf3b00800000000000000
+      internalID: 810579603150144107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f2b1ae20230fe50800000000000000
+      internalID: 6841022822074756931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_8
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e113cfd4260878e80800000000000000
+      internalID: -8176425438764322530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f365316c556643ed0800000000000000
+      internalID: -2435208979919186369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_10
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8602cf44e12704700800000000000000
+      internalID: 522543031106936936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861de0f87d97ebdd0800000000000000
+      internalID: -2468401579027410584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2815d46090e033c0800000000000000
+      internalID: -4381755526659893206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04db6945a20784d0800000000000000
+      internalID: -3132532106888227825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22461963845e32b50800000000000000
+      internalID: 6567344779952219170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5114c79ec08495bc0800000000000000
+      internalID: -3793921990788890347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fb26649e35a3d10800000000000000
+      internalID: 2106088037122490198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_17
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa777f31588d94fa0800000000000000
+      internalID: -5815879377695049809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14aca2cff928ca0e0800000000000000
+      internalID: -2257285689577387455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290875bf32db28290800000000000000
+      internalID: -7889535634961366894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3375d3daa08b4b180800000000000000
+      internalID: -9100446591013267661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_21
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f2dcc5ca1964280800000000000000
+      internalID: -9059393430931820641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4045269a73014e1c0800000000000000
+      internalID: -4475434298448391164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_23
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492a6fb4b9feb1880800000000000000
+      internalID: -8639048009906740588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_24
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0e0e455d742e8d0800000000000000
+      internalID: -2818611435202879319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_25
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85dbef1757134f780800000000000000
+      internalID: -8650234603778425512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49b27d95d64731a0800000000000000
+      internalID: -6829912426600548019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5a5c920f5b54c20800000000000000
+      internalID: 3190155954159461886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e04d14fb6144800800000000000000
+      internalID: 595626061418729100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_29
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c79d373c7b148410800000000000000
+      internalID: 1478336798001043392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_30
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06ec14342283e8e0800000000000000
+      internalID: -1665344345192208885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_31
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e40b59c3de7d470800000000000000
+      internalID: 8419458872857611900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_32
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d470dc1f64dd8e0800000000000000
+      internalID: -1667098282716345024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_33
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4438e77a7645f1940800000000000000
+      internalID: 5269022893215220548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_34
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7294b647165917c0800000000000000
+      internalID: -4100151327773650306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_35
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9769bb03b15f11a0800000000000000
+      internalID: -6836655879887427682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_36
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af148e8c3e0f33470800000000000000
+      internalID: 8373300993330790906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_37
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf6fce9e54050280800000000000000
+      internalID: -9077844669457535013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_38
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43d893c282cffcf0800000000000000
+      internalID: -216240390207384755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_39
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 115
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af8b3d8bf948b3a0800000000000000
+      internalID: -6649483505057427548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_40
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b529c6ca3f73770800000000000000
+      internalID: 8590602736113965838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_41
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 115
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ffd52deb58b8440800000000000000
+      internalID: 4939188470961536773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_42
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 115
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7609869c5d37790800000000000000
+      internalID: -7533442690641270872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 97
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793643b9b629d2110800000000000000
+      internalID: 1237806463459812247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_44
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9816f256cac8053a0800000000000000
+      internalID: -6678683575330578039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_45
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2ff3935bcdb5700800000000000000
+      internalID: 530260052053848741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_46
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7cdff8ffc90c940800000000000000
+      internalID: 5314420181743552437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_47
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241df94c0118ea430800000000000000
+      internalID: 3796113444938174786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_48
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99d577e7dc1a31b0800000000000000
+      internalID: -5676192666720282212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f9402b09b849210800000000000000
+      internalID: 1338848442814078857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_50
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 97
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635eb067736614c20800000000000000
+      internalID: 3188942399544747318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79172f8f9f1e75fc0800000000000000
+      internalID: -3506085321144897129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5378f21cfb86bee0800000000000000
+      internalID: -1245654332155071652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_53
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216eb242e15582880800000000000000
+      internalID: -8635558697538689518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_54
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71a87a664b6f8720800000000000000
+      internalID: 2850615039326986620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_55
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edf127c30f11ad90800000000000000
+      internalID: -7088350237418193440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_56
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854bd0d991deb4830800000000000000
+      internalID: 4056596583642149976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_57
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbfca951d15ca740800000000000000
+      internalID: 5164592832281639880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_58
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee07ce72aa62ecc0800000000000000
+      internalID: -3683264299091423520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae2c381d7e8d8530800000000000000
+      internalID: 3858897123655036585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_60
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f2d7fc57ed69030800000000000000
+      internalID: 3501230357900767117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_61
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32896587872b09000800000000000000
+      internalID: 40728627131095075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_62
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 79
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a10d1f389a39970800000000000000
+      internalID: 8760532084328503893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 29
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234f8e16c0ebfb2d0800000000000000
+      internalID: -3260678644801407950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_64
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 29
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f8f20495808d790800000000000000
+      internalID: -7505239599590961273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_65
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 29
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f17dae2bb2c8380800000000000000
+      internalID: -8967744710557360286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_66
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 29
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0498190e983375d0800000000000000
+      internalID: -3066044669900581873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_67
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 29
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cc28b4460d98580800000000000000
+      internalID: -8824292865673606027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_68
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 30
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeefcb5c7b4a9dd00800000000000000
+      internalID: 998009901642743530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_69
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 30
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c271dfb89f406a20800000000000000
+      internalID: 3053528064828994243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_70
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 30
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37b022d186e753a0800000000000000
+      internalID: -6676614477302941893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_71
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 30
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84893d0b7c7b6c7f0800000000000000
+      internalID: -592584232659609528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_72
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b024bb3b5064a6820800000000000000
+      internalID: 2912217099352621579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_73
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 30
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42601647f417caa90800000000000000
+      internalID: -7301336309805545948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_74
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 30
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e7fde4a100858d0800000000000000
+      internalID: -2857533850574160333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_75
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 30
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70a55cf557eee6b0800000000000000
+      internalID: -5265016557857824641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_76
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d8762950f2eea30800000000000000
+      internalID: 4246383199634558273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_77
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d170dd1b6e98550f0800000000000000
+      internalID: -1128844507666905315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_78
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c6095a453fc12a0800000000000000
+      internalID: -6765264995336819665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_79
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daadc2bce749d830800000000000000
+      internalID: 4096384418007853778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_80
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171d3985526bdc0f0800000000000000
+      internalID: -1095018862865034895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_81
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee21cdd387902dc80800000000000000
+      internalID: -8299560751251844370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_82
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1
+        width: 34
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14baab5aa10a7960800000000000000
+      internalID: 7600389152335115295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sound-tilesets_83
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64e3b59348ffc290800000000000000
+      internalID: -7867797054834875282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
